@@ -7,7 +7,7 @@ body{
     font-size: 11pt;
     line-height: 1.6;
     color:#2c3e50 ;
-    background-color:#f4f7f6 ;
+    background-color:purple ;
     
     max-width: 800px;
     margin-left: auto;
@@ -56,7 +56,7 @@ h2{
 }
 
 h3{
-    color: #34495e;
+    color: orange;
     font-size: 13pt;
     font-style: italic;
 
@@ -71,7 +71,7 @@ h3{
     max-width: 200px;
 }
 h4{
-    color: #34495e;
+    color: pink;
     font-size: 10pt;
     font-style: italic;
 
